@@ -1,0 +1,8 @@
+{
+    "rooms": [],
+    "devices": [{
+        "title": "Main house door",
+        "type": "SmartDoor"
+    }],
+    "title": "EmptyHouse"
+}

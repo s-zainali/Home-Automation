@@ -1,0 +1,66 @@
+{
+    "rooms": [
+        {
+            "devices": [
+                {
+                    "title": "Room Door",
+                    "type": "SmartDoor"
+                },
+                {
+                    "title": "Air Freshener",
+                    "type": "AirFreshener"
+                },
+                {
+                    "title": "Room Air Conditioner",
+                    "type": "AirConditioner"
+                }
+            ],
+            "title": "Bedroom"
+        },
+        {
+            "devices": [
+                {
+                    "title": "Roomba",
+                    "type": "AutomaticVacuum"
+                },
+                {
+                    "title": "Living Room Door",
+                    "type": "SmartDoor"
+                },
+                {
+                    "title": "Living Room Main Light",
+                    "type": "LightBulb"
+                },
+                {
+                    "title": "Living Room Small Light",
+                    "type": "LightBulb"
+                }
+            ],
+            "title": "Living Room"
+        },
+        {
+            "devices": [
+                {
+                    "title": "Vacuum2",
+                    "type": "AutomaticVacuum"
+                },
+                {
+                    "title": "Kitchen Door",
+                    "type": "SmartDoor"
+                }
+            ],
+            "title": "Kitchen"
+        }
+    ],
+    "devices": [
+        {
+            "title": "Main house door",
+            "type": "SmartDoor"
+        },
+        {
+            "title": "Enterance Light",
+            "type": "LightBulb"
+        }
+    ],
+    "title": "Zain's House"
+}

@@ -1,0 +1,39 @@
+{
+    "rooms": [
+        {
+            "devices": [
+                {
+                    "title": "AC 1",
+                    "type": "AirConditioner"
+                },
+                {
+                    "title": "Room Door",
+                    "type": "SmartDoor"
+                }
+            ],
+            "title": "Bedroom"
+        },
+        {
+            "devices": [
+                {
+                    "title": "Lamp",
+                    "type": "LightBulb"
+                },
+                {
+                    "title": "Air Freshener 1",
+                    "type": "AirFreshener"
+                },
+                {
+                    "title": "Kitchen Door",
+                    "type": "SmartDoor"
+                }
+            ],
+            "title": "Kitchen"
+        }
+    ],
+    "devices": [{
+        "title": "Main house door",
+        "type": "SmartDoor"
+    }],
+    "title": "GeneralHouse"
+}
